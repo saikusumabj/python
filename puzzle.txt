@@ -1,0 +1,25 @@
+
+25. Write a Python program to check whether a specified value is contained in a group of values?
+A)a=[1, 5, 8, 3] 
+if 3 in a:
+    print("True")
+else:
+    print("False")
+b= [1, 5, 8, 3] 
+if -1 in b:
+    print("True")
+else:
+    print("False")
+38. Write a Python program to solve (x + y) * (x + y)?
+A)x=4
+y=3
+a=(x+y)*(x+y)
+print(a)  
+91. Write a Python program to swap two variables?
+A)For example:
+x=4
+y=5
+x,y=y,x
+print(x,y)
+swapping is exchange of values between two variables
+        
